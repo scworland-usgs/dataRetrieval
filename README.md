@@ -12,7 +12,7 @@ To install the dataRetrieval package, you must be using R 3.0 or greater and run
 ```R
 install.packages("dataRetrieval")
 ```
-
+ small change 
 To get inter-CRAN release updates, use the command:
 ```r
 install.packages("dataRetrieval",repos="https://owi.usgs.gov/R")
